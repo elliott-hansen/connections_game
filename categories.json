@@ -1,0 +1,641 @@
+[
+    {
+        "category": "Colors",
+        "words": [
+            "Red",
+            "Green",
+            "Blue",
+            "Yellow"
+        ]
+    },
+    {
+        "category": "Buildings on Grounds",
+        "words": [
+            "Rice",
+            "Small",
+            "Clark",
+            "Alderman"
+        ]
+    },
+    {
+        "category": "Sizes of coffee at starbucks",
+        "words": [
+            "Tall",
+            "Grande",
+            "Venti",
+            "Trenti"
+        ]
+    },
+    {
+        "category": "Seasons",
+        "words": [
+            "Fall",
+            "Winter",
+            "Spring",
+            "Summer"
+        ]
+    },
+    {
+        "category": "CS Classes",
+        "words": [
+            "Programming Languages for Web Applications",
+            "Operating Systems",
+            "Intro to Cybersecurity",
+            "Data Structures and Algorithms 1"
+        ]
+    },
+    {
+        "category": "Pizza toppings",
+        "words": [
+            "Pepperoni",
+            "Sausage",
+            "Onions",
+            "Mushrooms"
+        ]
+    },
+    {
+        "category": "School websites",
+        "words": [
+            "Canvas",
+            "Piazza",
+            "Sis",
+            "Gradescope"
+        ]
+    },
+    {
+        "category": "Engineering school majors",
+        "words": [
+            "Computer science",
+            "Mechanical engineering",
+            "Systems engineering",
+            "Biomedical engineering"
+        ]
+    },
+    {
+        "category": "Web development frameworks",
+        "words": [
+            "Django",
+            "Ruby on Rails",
+            "React",
+            "Angular"
+        ]
+    },
+    {
+        "category": "Types of Beverages",
+        "words": [
+            "Juice",
+            "Tea",
+            "Coffee",
+            "Soda"
+        ]
+    },
+    {
+        "category": "Trees",
+        "words": [
+            "Walnut",
+            "Maple",
+            "Oak",
+            "Hickory"
+        ]
+    },
+    {
+        "category": "Fingers",
+        "words": [
+            "Index",
+            "Middle",
+            "Ring",
+            "Pinky"
+        ]
+    },
+    {
+        "category": "Letters",
+        "words": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "category": "Desserts",
+        "words": [
+            "Cake",
+            "Cookie",
+            "Ice cream",
+            "Brownie"
+        ]
+    },
+    {
+        "category": "Cough drop flavors",
+        "words": [
+            "Honey lemon",
+            "Mint",
+            "Cherry",
+            "Elderberry"
+        ]
+    },
+    {
+        "category": "Types of water",
+        "words": [
+            "Purified",
+            "Sparkling",
+            "Filtered",
+            "Flavored"
+        ]
+    },
+    {
+        "category": "Athletic Brands",
+        "words": [
+            "Nike",
+            "Adidas",
+            "New Balance",
+            "Reebok"
+        ]
+    },
+    {
+        "category": "Food",
+        "words": [
+            "sushi",
+            "hamburger",
+            "fried chicken",
+            "pizza"
+        ]
+    },
+    {
+        "category": "Season",
+        "words": [
+            "Winter",
+            "Spring",
+            "Summer",
+            "Fall"
+        ]
+    },
+    {
+        "category": "Clothing",
+        "words": [
+            "sock",
+            "shoes",
+            "shirt",
+            "pants"
+        ]
+    },
+    {
+        "category": "CSS",
+        "words": [
+            "Selectors",
+            "Style",
+            "Pretty",
+            "Classes"
+        ]
+    },
+    {
+        "category": "Economics",
+        "words": [
+            "Awful",
+            "Unhelpful",
+            "Painful",
+            "Useless"
+        ]
+    },
+    {
+        "category": "Olsson",
+        "words": [
+            "Gloomy",
+            "Dark",
+            "Basement",
+            "Bad"
+        ]
+    },
+    {
+        "category": "Web Frameworks",
+        "words": [
+            "React",
+            "Express",
+            "FastAPI",
+            "Django"
+        ]
+    },
+    {
+        "category": "Places to eat around Grounds",
+        "words": [
+            "Pav",
+            "Ohill",
+            "Newcomb",
+            "Rising roll"
+        ]
+    },
+    {
+        "category": "Birds",
+        "words": [
+            "Cardinal",
+            "Robin",
+            "Osprey",
+            "Hawk"
+        ]
+    },
+    {
+        "category": "Directions",
+        "words": [
+            "East",
+            "West",
+            "North",
+            "South"
+        ]
+    },
+    {
+        "category": "Body parts",
+        "words": [
+            "Arm",
+            "Leg",
+            "Hand",
+            "Feet"
+        ]
+    },
+    {
+        "category": "Meat",
+        "words": [
+            "Chicken",
+            "Beef",
+            "Pork",
+            "Fish"
+        ]
+    },
+    {
+        "category": "Milk Type",
+        "words": [
+            "Whole",
+            "Oat",
+            "Almond",
+            "Soy"
+        ]
+    },
+    {
+        "category": "German Cars",
+        "words": [
+            "Audi",
+            "BMW",
+            "Mercedes",
+            "Volkswagen"
+        ]
+    },
+    {
+        "category": "Minecraft mobs",
+        "words": [
+            "Creeper",
+            "Enderman",
+            "Zombie",
+            "Ghast"
+        ]
+    },
+    {
+        "category": "Sports",
+        "words": [
+            "Volleyball",
+            "Soccer",
+            "Golf",
+            "Basketball"
+        ]
+    },
+    {
+        "category": "Instrument",
+        "words": [
+            "Piano",
+            "Ukulele",
+            "Guitar",
+            "Harpsichord"
+        ]
+    },
+    {
+        "category": "Fruit",
+        "words": [
+            "banana",
+            "watermelon",
+            "strawberry",
+            "coconut"
+        ]
+    },
+    {
+        "category": "Car brands",
+        "words": [
+            "Toyota",
+            "Chevrolet",
+            "Volvo",
+            "Jeep"
+        ]
+    },
+    {
+        "category": "Board games",
+        "words": [
+            "Scrabble",
+            "Apples to apples",
+            "Life",
+            "Chess"
+        ]
+    },
+    {
+        "category": "fast food chicken",
+        "words": [
+            "Chikfila",
+            "Popeyes",
+            "Bojangles",
+            "Canes"
+        ]
+    },
+    {
+        "category": "2000s Teen Shows",
+        "words": [
+            "The O.C.",
+            "One Tree Hill",
+            "Gilmore Girls",
+            "Gossip Girl"
+        ]
+    },
+    {
+        "category": "Sports",
+        "words": [
+            "Soccer",
+            "Tennis",
+            "Pickleball",
+            "Rugby"
+        ]
+    },
+    {
+        "category": "Study Spots",
+        "words": [
+            "Music Library",
+            "Clark",
+            "Clem",
+            "MSC"
+        ]
+    },
+    {
+        "category": "Foods I like",
+        "words": [
+            "Chicken",
+            "Beef",
+            "Potatoes",
+            "Rice"
+        ]
+    },
+    {
+        "category": "Cities in Virginia",
+        "words": [
+            "Richmond",
+            "Charlottesville",
+            "Roanoke",
+            "Alexandria"
+        ]
+    },
+    {
+        "category": "Seasons",
+        "words": [
+            "Summer",
+            "Autumn",
+            "Winter",
+            "Spring"
+        ]
+    },
+    {
+        "category": "Types of Pets",
+        "words": [
+            "Dog",
+            "Cat",
+            "Fish",
+            "Hamster"
+        ]
+    },
+    {
+        "category": "Mythical creatures",
+        "words": [
+            "Dragon",
+            "Manticore",
+            "Centaur",
+            "Unicorn"
+        ]
+    },
+    {
+        "category": "Political Ideologies\/groups",
+        "words": [
+            "Republican",
+            "Democrat",
+            "Libertarian",
+            "Leftist"
+        ]
+    },
+    {
+        "category": "Drinks",
+        "words": [
+            "Boba",
+            "Lassi",
+            "Lemonade",
+            "Tea"
+        ]
+    },
+    {
+        "category": "UVA",
+        "words": [
+            "Rotunda",
+            "Jefferson",
+            "Trolley",
+            "Jim Ryan"
+        ]
+    },
+    {
+        "category": "Covid-19",
+        "words": [
+            "Toilet Paper",
+            "Wordle",
+            "Whipped Coffee",
+            "Tiktok"
+        ]
+    },
+    {
+        "category": "Video Games",
+        "words": [
+            "Destiny",
+            "Mortal Kombat",
+            "Elden Ring",
+            "Minecraft"
+        ]
+    },
+    {
+        "category": "Colors",
+        "words": [
+            "Orange",
+            "Blue",
+            "Red",
+            "Green"
+        ]
+    },
+    {
+        "category": "Activities",
+        "words": [
+            "Drawing",
+            "Playing Guitar",
+            "Scrolling Phone",
+            "Playing Games"
+        ]
+    },
+    {
+        "category": "Engineer\u2019s way buildings",
+        "words": [
+            "Rice Hall",
+            "Olsson Hall",
+            "Mechanical & Aerospace Engineering Building",
+            "Thornton"
+        ]
+    },
+    {
+        "category": "types of wood",
+        "words": [
+            "walnut",
+            "pine",
+            "oak",
+            "cherry"
+        ]
+    },
+    {
+        "category": "gas planets",
+        "words": [
+            "jupiter",
+            "saturn",
+            "uranus",
+            "neptune"
+        ]
+    },
+    {
+        "category": "bodies of water",
+        "words": [
+            "lake",
+            "river",
+            "ocean",
+            "sea"
+        ]
+    },
+    {
+        "category": "Places to eat on grounds",
+        "words": [
+            "Got Dumplings",
+            "The Castle",
+            "Sushi",
+            "Chick Fil A"
+        ]
+    },
+    {
+        "category": "Streaming services",
+        "words": [
+            "Netflix",
+            "Disney Plus",
+            "Hulu",
+            "MAX"
+        ]
+    },
+    {
+        "category": "Cereal Characters",
+        "words": [
+            "Tony the Tiger",
+            "Toucan Sam",
+            "Cap'n Crunch",
+            "Snap, Crackle and Pop"
+        ]
+    },
+    {
+        "category": "Particles",
+        "words": [
+            "Proton",
+            "Electron",
+            "Neutron",
+            "Positron"
+        ]
+    },
+    {
+        "category": "States of Matter",
+        "words": [
+            "Solid",
+            "Liquid",
+            "Gas",
+            "Bose\u2013Einstein condensate"
+        ]
+    },
+    {
+        "category": "Food with strong like\/dislike",
+        "words": [
+            "Mint Chocolate Chip",
+            "Blue cheese",
+            "Matcha",
+            "Oysters"
+        ]
+    },
+    {
+        "category": "COFFEE",
+        "words": [
+            "Latte",
+            "Flat White",
+            "Americano",
+            "Mocha"
+        ]
+    },
+    {
+        "category": "TEA",
+        "words": [
+            "Green",
+            "Earl Grey",
+            "Hibiscus",
+            "Chai"
+        ]
+    },
+    {
+        "category": "Colors",
+        "words": [
+            "Red",
+            "Green",
+            "Blue",
+            "Yellow"
+        ]
+    },
+    {
+        "category": "Video Games",
+        "words": [
+            "Hollow Knight",
+            "Fallout New Vegas",
+            "Subnautica",
+            "Minecraft"
+        ]
+    },
+    {
+        "category": "Dinner",
+        "words": [
+            "Chicken",
+            "Rice",
+            "Broccoli",
+            "Milk"
+        ]
+    },
+    {
+        "category": "Craft hobbies",
+        "words": [
+            "Crocheting",
+            "Knitting",
+            "Sewing",
+            "Embroidery"
+        ]
+    },
+    {
+        "category": "Succulents",
+        "words": [
+            "String of Pearls (Senecio rowleyanus)",
+            "Moonstone (Pachyphytum oviferum)",
+            "Burrito (Sedum morganianum)",
+            "Haworthia cooperi"
+        ]
+    },
+    {
+        "category": "Coffee On Grounds",
+        "words": [
+            "Starbucks",
+            "Grit Coffee",
+            "Greenberry's",
+            "Newcomb Dining Hall"
+        ]
+    }
+]

@@ -1,0 +1,245 @@
+@bgcolor: #e3cac8;
+@itemcolor: #272727;
+@boxcolor: #ebe6e6;
+@boxshadow: #3b3b3b;
+@selectedcolor: #8d8585;
+@hovercolor: #bdb9b9;
+@foundcolor: #6d9376;
+@cat1: #a295c9;
+@cat2: #95c9bf;
+@cat3: #ccad83;
+@cat4: #d996a4;
+
+
+body {
+    background-color: @bgcolor;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-body {
+    height: 100vh; 
+    width: 750px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.title-block {
+    height: auto;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title-block h1 {
+    font-family: Outfit;
+    font-size: 55px;
+    font-weight: 700;
+    color: @itemcolor;
+}
+
+.title-block h2 {
+    font-family: Outfit;
+    font-size: 18px;
+    font-weight: 500;
+    color: @itemcolor;
+}
+
+.block-style {
+    width: 450px;
+    height: 200px;
+    background-color: @itemcolor;
+    border-radius: 12px;
+}
+
+.main-body .login {
+    .block-style();
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.login form {
+    margin: 32px;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+form * {
+    font-family: Outfit;
+}
+
+form #_submitButton {
+    font-family: Outfit;
+    font-weight: 800;
+    margin-top: 10px;
+    width: 50%;
+}
+
+.game-block {
+    .block-style();
+    width: 100%;
+    background-color: @itemcolor;
+    height: 490px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    padding: 20px;
+}
+
+.game-row {
+    display: flex;
+    flex-direction: row;
+    height: 75px;
+    width: 100%;
+    gap: 15px;
+}
+
+.game-row span, .btn {
+    font-family: Bitter;
+    font-weight: 800;
+    font-size: 18px;
+    text-align: center;
+    color: @boxcolor;
+    height: 40px;
+}
+
+.game-choice-container {
+    height: 100%;
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    transition: 0.3s;
+}
+
+.game-choice-container input {
+    opacity: 0%;
+    position: absolute;
+    width: 0;
+    height: 0;
+    z-index: 3;
+}
+.game-choice-container .game-choice {
+    height: 100%;
+    width: 100%;
+    font-size: 15px;
+    background-color: @boxcolor;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px @boxshadow;
+    transition: 0.3s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.game-choice-container:hover .game-choice {
+    background-color: @hovercolor;
+}
+
+.game-choice-container input:checked ~ .game-choice {
+    background-color: @selectedcolor;
+    color: @boxcolor;
+}
+
+.game-choice h3 {
+    user-select: none;
+    margin: 0;
+    font-family: Bitter;
+    font-weight: 800;
+    font-size: 15px;
+    text-align: center;
+}
+
+.game-choice-container:hover {
+    transform: scale(102%);
+    transform: translateY(-3%);
+}
+
+.game-over {
+    .block-style();
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    height: 550px;
+    width: 100%;
+}
+
+.game-over .game-over-answers {
+    height: 50px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+}
+
+.game-over-answers .category {
+    height: 100%;
+    width: 25%;
+    border-radius: 8px;
+    font-family: Bitter;
+    font-weight: 800;
+    color: @boxcolor;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 0.5px 0.5px 0.5px @boxshadow;
+}
+
+.game-over-answers .answer {
+    width: 25%;
+    border-radius: 8px;
+    font-family: Bitter;
+    font-weight: 800;
+    color: @boxcolor;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 0.5px 0.5px 0.5px @boxshadow;
+
+}
+
+.guess-tracker {
+    .block-style();
+    width: 100%; 
+    margin-top: 10px;
+    height: 150px;
+    padding: 16px;
+}
+
+.guess-tracker-inner {
+    height: 100%; 
+    border-radius: 4px; 
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 5px;
+}
+
+.guess-tracked {
+    border-radius: 5px;
+    height: 25%;
+    display: flex;
+}
+
+.guess-tracked span {
+    font-family: Bitter;
+    font-weight: 800;
+    font-size: 18px;
+    color: @boxcolor;
+    text-align: left;
+}
+
+#_errorMessage {
+    font-size: 16px;
+    color: white;
+}
